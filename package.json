@@ -1,0 +1,10 @@
+{
+  "name": "popup-shop",
+  "version": "1.0.0",
+  "description": "A quick popup e-commerce website. ",
+  "main": "app.js",
+  "repository": "https://github.com/SeeYouSpaceCowboy/popup-shop-api.git",
+  "author": "Mohammed Chisti",
+  "license": "MIT",
+  "private": false
+}
